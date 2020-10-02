@@ -1,0 +1,32 @@
+﻿FormatVersion: 7
+Name: "Click 1"
+Script: "Click"
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "56864"
+  EndTime:
+    Type: "System.Int32"
+    Value: "74318"
+  BeatDivisor:
+    Type: "System.Int32"
+    Value: "8"
+  FadeTime:
+    Type: "System.Int32"
+    Value: "400"
+  SpritePath:
+    Type: "System.String"
+    Value: "sb/etc/star.png "
+  SpriteScale:
+    Type: "System.Double"
+    Value: "0.35"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  a46c8118d10341f2b26536c4edb9ea2d:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes

@@ -1,0 +1,32 @@
+﻿FormatVersion: 7
+Name: "ClickRings 2"
+Script: "ClickRings"
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "110318"
+  EndTime:
+    Type: "System.Int32"
+    Value: "111409"
+  BeatDivisor:
+    Type: "System.Int32"
+    Value: "8"
+  FadeTime:
+    Type: "System.Int32"
+    Value: "200"
+  SpritePath:
+    Type: "System.String"
+    Value: "sb/etc/ring.png"
+  SpriteScale:
+    Type: "System.Double"
+    Value: "1.2"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  a2edffbe92094bc0a9bae72c72d10ac3:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes

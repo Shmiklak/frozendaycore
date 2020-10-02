@@ -1,0 +1,24 @@
+﻿FormatVersion: 7
+Name: "Sb 1"
+Script: "Sb"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  7ec0b501e60a4c79a0803c172b9c78fb:
+    Name: "background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d5b09f6ba3824be7b856ba8501dee009:
+    Name: "vig"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  afc4ec8e7ae744629c8958f5edb3986c:
+    Name: "ice"
+    OsbLayer: Overlay
+    DiffSpecific: No
+    Visible: Yes
